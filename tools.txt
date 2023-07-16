@@ -1,2 +1,2 @@
 GIT is popular version control sytem
-Maven is build tool for java 
+Maven is build tool for java
