@@ -3,4 +3,3 @@ Maven is build tool for java
 Jenkins is a popular automation tool
 Ansible is easy to learn
 Kubernetes is container orchestration framework
-Argo CD is kubernetes continuos deployment tool
